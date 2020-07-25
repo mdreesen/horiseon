@@ -60,6 +60,7 @@ p {
     background-size: cover;
     background-position: center;
     margin: 0;
+    margin-bottom: 25px;
 }
 
 .float-left {
